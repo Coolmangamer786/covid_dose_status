@@ -1,230 +1,224 @@
 {
   "Andaman and Nicobar": {
-    "dose1_name": "1,08,314 ⬆️ 1,013",
-    "dose2_name": "15,166 ⬆️ 4",
-    "total_vaccination_name": "1,23,480 ⬆️ 1,017",
-    "total_vaccination_bey_before_name": "1,22,463"
+    "dose1_name": "1,09,084 ⬆️ 528",
+    "dose2_name": "15,181 ⬆️ 15",
+    "total_vaccination_name": "1,24,265 ⬆️ 543",
+    "total_vaccination_bey_before_name": "1,23,722"
   },
   "Andhra Pradesh": {
-    "dose1_name": "72,70,166 ⬆️ 1,94,358",
-    "dose2_name": "24,81,682 ⬆️ 68,897",
-    "total_vaccination_name": "97,51,848 ⬆️ 2,63,255",
-    "total_vaccination_bey_before_name": "94,88,593"
+    "dose1_name": "73,50,968 ⬆️ 68,654",
+    "dose2_name": "25,12,379 ⬆️ 27,915",
+    "total_vaccination_name": "98,63,347 ⬆️ 96,569",
+    "total_vaccination_bey_before_name": "97,66,778"
   },
   "Arunachal Pradesh": {
-    "dose1_name": "2,54,387 ⬆️ 1,120",
-    "dose2_name": "78,270 ⬆️ 62",
-    "total_vaccination_name": "3,32,657 ⬆️ 1,182",
-    "total_vaccination_bey_before_name": "3,31,475"
+    "dose1_name": "2,55,589 ⬆️ 870",
+    "dose2_name": "78,329 ⬆️ 57",
+    "total_vaccination_name": "3,33,918 ⬆️ 927",
+    "total_vaccination_bey_before_name": "3,32,991"
   },
   "Assam": {
-    "dose1_name": "32,46,474 ⬆️ 42,605",
-    "dose2_name": "8,27,224 ⬆️ 3,781",
-    "total_vaccination_name": "40,73,698 ⬆️ 46,386",
-    "total_vaccination_bey_before_name": "40,27,312"
+    "dose1_name": "33,04,145 ⬆️ 39,206",
+    "dose2_name": "8,33,156 ⬆️ 4,398",
+    "total_vaccination_name": "41,37,301 ⬆️ 43,604",
+    "total_vaccination_bey_before_name": "40,93,697"
   },
   "Bihar": {
-    "dose1_name": "84,30,150 ⬆️ 43,799",
-    "dose2_name": "17,73,194 ⬆️ 8,540",
-    "total_vaccination_name": "1,02,03,344 ⬆️ 52,339",
-    "total_vaccination_bey_before_name": "1,01,51,005"
+    "dose1_name": "85,14,462 ⬆️ 49,200",
+    "dose2_name": "17,91,507 ⬆️ 11,933",
+    "total_vaccination_name": "1,03,05,969 ⬆️ 61,133",
+    "total_vaccination_bey_before_name": "1,02,44,836"
   },
   "Chandigarh": {
-    "dose1_name": "2,64,562 ⬆️ 4,944",
-    "dose2_name": "74,854 ⬆️ 28",
-    "total_vaccination_name": "3,39,416 ⬆️ 4,972",
-    "total_vaccination_bey_before_name": "3,34,444"
+    "dose1_name": "2,74,422 ⬆️ 6,000",
+    "dose2_name": "74,901 ⬆️ 44",
+    "total_vaccination_name": "3,49,323 ⬆️ 6,044",
+    "total_vaccination_bey_before_name": "3,43,279"
   },
   "Chhattisgarh": {
-    "dose1_name": "58,78,553 ⬆️ 8,805",
-    "dose2_name": "11,02,124 ⬆️ 2,127",
-    "total_vaccination_name": "69,80,677 ⬆️ 10,932",
-    "total_vaccination_bey_before_name": "69,69,745"
+    "dose1_name": "58,92,189 ⬆️ 7,353",
+    "dose2_name": "11,05,870 ⬆️ 2,586",
+    "total_vaccination_name": "69,98,059 ⬆️ 9,939",
+    "total_vaccination_bey_before_name": "69,88,120"
   },
   "Dadra and Nagar Haveli and Daman and Diu": {
-    "dose1_name": "1,60,637 ⬆️ 5,943",
-    "dose2_name": "25,958 ⬆️ 7",
-    "total_vaccination_name": "1,86,595 ⬆️ 5,950",
-    "total_vaccination_bey_before_name": "1,80,645"
+    "dose1_name": "1,70,055 ⬆️ 6,250",
+    "dose2_name": "25,974 ⬆️ 15",
+    "total_vaccination_name": "1,96,029 ⬆️ 6,265",
+    "total_vaccination_bey_before_name": "1,89,764"
   },
   "Delhi": {
-    "dose1_name": "41,38,523 ⬆️ 39,157",
-    "dose2_name": "12,03,863 ⬆️ 15,130",
-    "total_vaccination_name": "53,42,386 ⬆️ 54,287",
-    "total_vaccination_bey_before_name": "52,88,099"
+    "dose1_name": "41,85,072 ⬆️ 37,210",
+    "dose2_name": "12,24,334 ⬆️ 20,053",
+    "total_vaccination_name": "54,09,406 ⬆️ 57,263",
+    "total_vaccination_bey_before_name": "53,52,143"
   },
   "Goa": {
-    "dose1_name": "4,26,504 ⬆️ 6,410",
-    "dose2_name": "94,961 ⬆️ 76",
-    "total_vaccination_name": "5,21,465 ⬆️ 6,486",
-    "total_vaccination_bey_before_name": "5,14,979"
+    "dose1_name": "4,33,834 ⬆️ 4,469",
+    "dose2_name": "95,100 ⬆️ 121",
+    "total_vaccination_name": "5,28,934 ⬆️ 4,590",
+    "total_vaccination_bey_before_name": "5,24,344"
   },
   "Gujarat": {
-    "dose1_name": "1,26,29,180 ⬆️ 1,82,748",
-    "dose2_name": "40,90,179 ⬆️ 33,486",
-    "total_vaccination_name": "1,67,19,359 ⬆️ 2,16,234",
-    "total_vaccination_bey_before_name": "1,65,03,125"
+    "dose1_name": "1,29,58,838 ⬆️ 1,72,964",
+    "dose2_name": "41,44,949 ⬆️ 30,160",
+    "total_vaccination_name": "1,71,03,787 ⬆️ 2,03,124",
+    "total_vaccination_bey_before_name": "1,69,00,663"
   },
   "Haryana": {
-    "dose1_name": "48,15,133 ⬆️ 45,972",
-    "dose2_name": "9,88,326 ⬆️ 7,767",
-    "total_vaccination_name": "58,03,459 ⬆️ 53,739",
-    "total_vaccination_bey_before_name": "57,49,720"
+    "dose1_name": "48,91,726 ⬆️ 51,820",
+    "dose2_name": "9,95,845 ⬆️ 5,415",
+    "total_vaccination_name": "58,87,571 ⬆️ 57,235",
+    "total_vaccination_bey_before_name": "58,30,336"
   },
   "Himachal Pradesh": {
-    "dose1_name": "19,96,121 ⬆️ 10,649",
-    "dose2_name": "4,33,608 ⬆️ 66",
-    "total_vaccination_name": "24,29,729 ⬆️ 10,715",
-    "total_vaccination_bey_before_name": "24,19,014"
+    "dose1_name": "20,22,506 ⬆️ 25,061",
+    "dose2_name": "4,33,621 ⬆️ 9",
+    "total_vaccination_name": "24,56,127 ⬆️ 25,070",
+    "total_vaccination_bey_before_name": "24,31,057"
   },
   "Jammu and Kashmir": {
-    "dose1_name": "26,99,374 ⬆️ 37,093",
-    "dose2_name": "5,42,836 ⬆️ 984",
-    "total_vaccination_name": "32,42,210 ⬆️ 38,077",
-    "total_vaccination_bey_before_name": "32,04,133"
+    "dose1_name": "27,54,337 ⬆️ 32,939",
+    "dose2_name": "5,46,074 ⬆️ 2,670",
+    "total_vaccination_name": "33,00,411 ⬆️ 35,609",
+    "total_vaccination_bey_before_name": "32,64,802"
   },
   "Jharkhand": {
-    "dose1_name": "34,23,927 ⬆️ 32,851",
-    "dose2_name": "7,00,325 ⬆️ 6,943",
-    "total_vaccination_name": "41,24,252 ⬆️ 39,794",
-    "total_vaccination_bey_before_name": "40,84,458"
+    "dose1_name": "34,83,409 ⬆️ 32,910",
+    "dose2_name": "7,10,024 ⬆️ 5,514",
+    "total_vaccination_name": "41,93,433 ⬆️ 38,424",
+    "total_vaccination_bey_before_name": "41,55,009"
   },
   "Karnataka": {
-    "dose1_name": "1,06,21,578 ⬆️ 2,30,827",
-    "dose2_name": "27,20,968 ⬆️ 22,002",
-    "total_vaccination_name": "1,33,42,546 ⬆️ 2,52,829",
-    "total_vaccination_bey_before_name": "1,30,89,717"
+    "dose1_name": "1,09,24,013 ⬆️ 2,20,985",
+    "dose2_name": "27,53,565 ⬆️ 23,315",
+    "total_vaccination_name": "1,36,77,578 ⬆️ 2,44,300",
+    "total_vaccination_bey_before_name": "1,34,33,278"
   },
   "Kerala": {
-    "dose1_name": "71,60,260 ⬆️ 1,39,053",
-    "dose2_name": "20,44,763 ⬆️ 19,811",
-    "total_vaccination_name": "92,05,023 ⬆️ 1,58,864",
-    "total_vaccination_bey_before_name": "90,46,159"
+    "dose1_name": "73,34,216 ⬆️ 1,54,027",
+    "dose2_name": "20,68,520 ⬆️ 17,973",
+    "total_vaccination_name": "94,02,736 ⬆️ 1,72,000",
+    "total_vaccination_bey_before_name": "92,30,736"
   },
   "Ladakh": {
-    "dose1_name": "1,16,833 ⬆️ 4,022",
-    "dose2_name": "37,279 ⬆️ 1",
-    "total_vaccination_name": "1,54,112 ⬆️ 4,023",
-    "total_vaccination_bey_before_name": "1,50,089"
+    "dose1_name": "1,22,247 ⬆️ 5,394",
+    "dose2_name": "37,290 ⬆️ 11",
+    "total_vaccination_name": "1,59,537 ⬆️ 5,405",
+    "total_vaccination_bey_before_name": "1,54,132"
   },
   "Lakshadweep": {
-    "dose1_name": "25,237 ⬆️ 512",
-    "dose2_name": "6,944 ⬆️ 3",
-    "total_vaccination_name": "32,181 ⬆️ 515",
-    "total_vaccination_bey_before_name": "31,666"
+    "dose1_name": "26,727 ⬆️ 824",
+    "dose2_name": "6,946 ⬆️ 1",
+    "total_vaccination_name": "33,673 ⬆️ 825",
+    "total_vaccination_bey_before_name": "32,848"
   },
   "Madhya Pradesh": {
-    "dose1_name": "90,95,772 ⬆️ 2,43,663",
-    "dose2_name": "17,84,230 ⬆️ 6,568",
-    "total_vaccination_name": "1,08,80,002 ⬆️ 2,50,231",
-    "total_vaccination_bey_before_name": "1,06,29,771"
+    "dose1_name": "93,75,056 ⬆️ 2,62,499",
+    "dose2_name": "17,92,248 ⬆️ 7,814",
+    "total_vaccination_name": "1,11,67,304 ⬆️ 2,70,313",
+    "total_vaccination_bey_before_name": "1,08,96,991"
   },
   "Maharashtra": {
-    "dose1_name": "1,76,99,104 ⬆️ 2,72,501",
-    "dose2_name": "45,21,400 ⬆️ 34,154",
-    "total_vaccination_name": "2,22,20,504 ⬆️ 3,06,655",
-    "total_vaccination_bey_before_name": "2,19,13,849"
+    "dose1_name": "1,80,05,790 ⬆️ 2,31,033",
+    "dose2_name": "45,69,691 ⬆️ 37,450",
+    "total_vaccination_name": "2,25,75,481 ⬆️ 2,68,483",
+    "total_vaccination_bey_before_name": "2,23,06,998"
   },
   "Manipur": {
-    "dose1_name": "3,80,673 ⬆️ 6,814",
-    "dose2_name": "70,336 ⬆️ 63",
-    "total_vaccination_name": "4,51,009 ⬆️ 6,877",
-    "total_vaccination_bey_before_name": "4,44,132"
+    "dose1_name": "3,87,473 ⬆️ 6,607",
+    "dose2_name": "70,445 ⬆️ 108",
+    "total_vaccination_name": "4,57,918 ⬆️ 6,715",
+    "total_vaccination_bey_before_name": "4,51,203"
   },
   "Meghalaya": {
-    "dose1_name": "3,89,325 ⬆️ 3,743",
-    "dose2_name": "74,321 ⬆️ 40",
-    "total_vaccination_name": "4,63,646 ⬆️ 3,783",
-    "total_vaccination_bey_before_name": "4,59,863"
+    "dose1_name": "3,91,357 ⬆️ 1,485",
+    "dose2_name": "74,340 ⬆️ 16",
+    "total_vaccination_name": "4,65,697 ⬆️ 1,501",
+    "total_vaccination_bey_before_name": "4,64,196"
   },
   "Mizoram": {
-    "dose1_name": "2,62,293 ⬆️ 1,977",
-    "dose2_name": "51,087 ⬆️ 2",
-    "total_vaccination_name": "3,13,380 ⬆️ 1,979",
-    "total_vaccination_bey_before_name": "3,11,401"
+    "dose1_name": "2,64,123 ⬆️ 1,759",
+    "dose2_name": "51,117 ⬆️ 30",
+    "total_vaccination_name": "3,15,240 ⬆️ 1,789",
+    "total_vaccination_bey_before_name": "3,13,451"
   },
   "Nagaland": {
-    "dose1_name": "2,10,545 ⬆️ 244",
-    "dose2_name": "51,930 ⬆️ 10",
-    "total_vaccination_name": "2,62,475 ⬆️ 254",
-    "total_vaccination_bey_before_name": "2,62,221"
+    "dose1_name": "2,16,970 ⬆️ 6,342",
+    "dose2_name": "51,942 ⬆️ 12",
+    "total_vaccination_name": "2,68,912 ⬆️ 6,354",
+    "total_vaccination_bey_before_name": "2,62,558"
   },
   "Odisha": {
-    "dose1_name": "62,36,232 ⬆️ 98,089",
-    "dose2_name": "14,70,637 ⬆️ 6,583",
-    "total_vaccination_name": "77,06,869 ⬆️ 1,04,672",
-    "total_vaccination_bey_before_name": "76,02,197"
+    "dose1_name": "63,78,928 ⬆️ 1,23,783",
+    "dose2_name": "14,77,093 ⬆️ 6,435",
+    "total_vaccination_name": "78,56,021 ⬆️ 1,30,218",
+    "total_vaccination_bey_before_name": "77,25,803"
   },
   "Puducherry": {
-    "dose1_name": "2,12,331 ⬆️ 3,221",
-    "dose2_name": "51,110 ⬆️ 59",
-    "total_vaccination_name": "2,63,441 ⬆️ 3,280",
-    "total_vaccination_bey_before_name": "2,60,161"
+    "dose1_name": "2,17,963 ⬆️ 3,513",
+    "dose2_name": "51,214 ⬆️ 76",
+    "total_vaccination_name": "2,69,177 ⬆️ 3,589",
+    "total_vaccination_bey_before_name": "2,65,588"
   },
   "Punjab": {
-    "dose1_name": "42,16,868 ⬆️ 36,600",
-    "dose2_name": "7,61,752 ⬆️ 5,202",
-    "total_vaccination_name": "49,78,620 ⬆️ 41,802",
-    "total_vaccination_bey_before_name": "49,36,818"
+    "dose1_name": "42,74,207 ⬆️ 29,733",
+    "dose2_name": "7,70,462 ⬆️ 5,309",
+    "total_vaccination_name": "50,44,669 ⬆️ 35,042",
+    "total_vaccination_bey_before_name": "50,09,627"
   },
   "Rajasthan": {
-    "dose1_name": "1,36,66,242 ⬆️ 1,91,852",
-    "dose2_name": "30,91,104 ⬆️ 12,467",
-    "total_vaccination_name": "1,67,57,346 ⬆️ 2,04,319",
-    "total_vaccination_bey_before_name": "1,65,53,027"
+    "dose1_name": "1,38,97,166 ⬆️ 1,33,904",
+    "dose2_name": "31,16,184 ⬆️ 17,879",
+    "total_vaccination_name": "1,70,13,350 ⬆️ 1,51,783",
+    "total_vaccination_bey_before_name": "1,68,61,567"
   },
   "Sikkim": {
-    "dose1_name": "1,79,179 ⬆️ 58",
-    "dose2_name": "59,653 ⬆️ 5",
-    "total_vaccination_name": "2,38,832 ⬆️ 63",
-    "total_vaccination_bey_before_name": "2,38,769"
+    "dose1_name": "1,79,263 ⬆️ 84",
+    "dose2_name": "59,661 ⬆️ 8",
+    "total_vaccination_name": "2,38,924 ⬆️ 92",
+    "total_vaccination_bey_before_name": "2,38,832"
   },
   "Tamil Nadu": {
-    "dose1_name": "67,82,968 ⬆️ 2,59,036",
-    "dose2_name": "20,13,165 ⬆️ 17,614",
-    "total_vaccination_name": "87,96,133 ⬆️ 2,76,650",
-    "total_vaccination_bey_before_name": "85,19,483"
+    "dose1_name": "70,61,570 ⬆️ 1,88,897",
+    "dose2_name": "20,32,685 ⬆️ 13,809",
+    "total_vaccination_name": "90,94,255 ⬆️ 2,02,706",
+    "total_vaccination_bey_before_name": "88,91,549"
   },
   "Telangana": {
-    "dose1_name": "46,67,791 ⬆️ 93,924",
-    "dose2_name": "12,45,295 ⬆️ 15,807",
-    "total_vaccination_name": "59,13,086 ⬆️ 1,09,731",
-    "total_vaccination_bey_before_name": "58,03,355"
+    "dose1_name": "47,96,912 ⬆️ 65,879",
+    "dose2_name": "12,61,921 ⬆️ 13,871",
+    "total_vaccination_name": "60,58,833 ⬆️ 79,750",
+    "total_vaccination_bey_before_name": "59,79,083"
   },
   "Tripura": {
-    "dose1_name": "10,80,642 ⬆️ 13,535",
-    "dose2_name": "5,07,573 ⬆️ 84",
-    "total_vaccination_name": "15,88,215 ⬆️ 13,619",
-    "total_vaccination_bey_before_name": "15,74,596"
+    "dose1_name": "11,03,052 ⬆️ 8,612",
+    "dose2_name": "5,07,671 ⬆️ 93",
+    "total_vaccination_name": "16,10,723 ⬆️ 8,705",
+    "total_vaccination_bey_before_name": "16,02,018"
   },
   "Uttar Pradesh": {
-    "dose1_name": "1,45,42,802 ⬆️ 2,99,303",
-    "dose2_name": "34,49,797 ⬆️ 25,408",
-    "total_vaccination_name": "1,79,92,599 ⬆️ 3,24,711",
-    "total_vaccination_bey_before_name": "1,76,67,888"
+    "dose1_name": "1,48,51,890 ⬆️ 2,93,602",
+    "dose2_name": "34,80,426 ⬆️ 30,110",
+    "total_vaccination_name": "1,83,32,316 ⬆️ 3,23,712",
+    "total_vaccination_bey_before_name": "1,80,08,604"
   },
   "Uttarakhand": {
-    "dose1_name": "22,07,776 ⬆️ 15,670",
-    "dose2_name": "6,83,083 ⬆️ 459",
-    "total_vaccination_name": "28,90,859 ⬆️ 16,129",
-    "total_vaccination_bey_before_name": "28,74,730"
+    "dose1_name": "22,34,626 ⬆️ 16,840",
+    "dose2_name": "6,83,922 ⬆️ 634",
+    "total_vaccination_name": "29,18,548 ⬆️ 17,474",
+    "total_vaccination_bey_before_name": "29,01,074"
   },
   "West Bengal": {
-    "dose1_name": "1,04,03,305 ⬆️ 2,66,113",
-    "dose2_name": "38,64,000 ⬆️ 11,705",
-    "total_vaccination_name": "1,42,67,305 ⬆️ 2,77,818",
-    "total_vaccination_bey_before_name": "1,39,89,487"
+    "dose1_name": "1,08,34,957 ⬆️ 2,92,251",
+    "dose2_name": "38,79,574 ⬆️ 13,684",
+    "total_vaccination_name": "1,47,14,531 ⬆️ 3,05,935",
+    "total_vaccination_bey_before_name": "1,44,08,596"
   },
   "Miscellaneous": {
-    "dose1_name": "17,17,716 ⬆️ 0",
-    "dose2_name": "14,56,140 ⬆️ 0",
-    "total_vaccination_name": "31,73,856 ⬆️ 0",
+    "dose1_name": "17,21,024 ⬆️ 3,308",
+    "dose2_name": "14,62,311 ⬆️ 6,171",
+    "total_vaccination_name": "31,83,335 ⬆️ 9,479",
     "total_vaccination_bey_before_name": "31,73,856"
-  },
-  "": {
-    "dose1_name": "",
-    "dose2_name": "",
-    "total_vaccination_name": "",
-    "total_vaccination_bey_before_name": ""
   }
 }
